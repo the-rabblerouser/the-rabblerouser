@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Joe 👋🏻
+I'm a self taught Full Stack Developer who specializes in React and Next.js.
 
-<!--
-**the-rabblerouser/the-rabblerouser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects <br/>
+>  [Hacker News Clone](https://github.com/the-rabblerouser/hacknews) - This is a clone of the site news.ycombinator.com built with React and Next.js
 
-Here are some ideas to get you started:
+>  [joemccann.tech](https://github.com/the-rabblerouser/portfolio) - My portfolio site to display my past and current projects. Built with React and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - This is the main project from Colt Steeles course, The Web Developer Bootcamp. I have taken the project and built it using react and next.js
+
+
+## My Tech Stack
+> React <br/>
+> Next.js <br/>
+> MongoDB <br/>
+
+## Hobbies
+🥋 Brazilian JiuJitsu <br/>
+🏋️ Powerlifting </br>
+🎸 Bass guitar
+
+## Connect with Me
+- [Portfolio](https://joemccann.tech/) <br/>
+- [Github](https://github.com/the-rabblerouser) <br/>
+- [Linkedin](https://www.linkedin.com/in/joseph-mccann-77402a88/) <br/>

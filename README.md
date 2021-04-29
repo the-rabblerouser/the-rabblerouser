@@ -1,5 +1,5 @@
 # Hi, I'm Joe 👋🏻
-I'm a self taught Full Stack Developer who specializes in React and Next.js.
+I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 ## Current Projects <br/>
 >  [Hacker News Clone](https://github.com/the-rabblerouser/hacknews) - This is a clone of the site news.ycombinator.com built with React and Next.js

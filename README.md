@@ -10,9 +10,12 @@ I'm a self taught Full Stack Developer who specializes in React and Next.js.
 
 
 ## My Tech Stack
+> Javascript <br/>
+> Typescript <br/>
+> Node <br/>
 > React <br/>
 > Next.js <br/>
-> MongoDB <br/>
+
 
 ## Hobbies
 🥋 Brazilian JiuJitsu <br/>

@@ -8,7 +8,7 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
   
 >  [Clicky Sweep](https://github.com/the-rabblerouser/clicky-sweep) - This is a simple game, built with typescript. The object of the game is to click the button to the set goal before the time runs out! Built with React, Typescript, & Next.js.
 
->  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - This is the main project from Colt Steeles course, The Web Developer Bootcamp. I have taken the project and built it using react and next.js
+>   [Calculator](https://github.com/the-rabblerouser/Calculator) - This is a calculator app, built with Typescript, React, & Next.js.
 
 
 ## My Tech Stack

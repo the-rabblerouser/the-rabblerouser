@@ -18,6 +18,7 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 > Javascript <br/>
 > Typescript <br/>
 > Node <br/>
+> Express <br/>
 > React <br/>
 > Next.js <br/>
 

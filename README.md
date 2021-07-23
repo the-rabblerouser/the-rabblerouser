@@ -5,7 +5,7 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 >  [joemccann.tech](https://github.com/the-rabblerouser/portfolio) - My portfolio site to display my past and current projects. Built with React and Next.js.
 
->  [plad practice](https://github.com/the-rabblerouser/plaid-practice) - An app to test out the plaid api.
+>  [Plaid Practice App](https://github.com/the-rabblerouser/Plaid-Client) - An app to test out the plaid api.
 
 >  [Hacker News Clone](https://github.com/the-rabblerouser/hacknews) - This is a clone of the site news.ycombinator.com built with React and Next.js
   

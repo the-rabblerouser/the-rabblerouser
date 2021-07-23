@@ -13,6 +13,7 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 >  [Calculator](https://github.com/the-rabblerouser/Calculator) - This is a calculator app, built with Typescript, React, & Next.js.
 
+>  [MineSweeper](https://github.com/the-rabblerouser/minesweeper_practice) - This is the classic game minesweeper, built with Typescript, React, & Next.js.
 
 ## My Tech Stack
 > Javascript <br/>

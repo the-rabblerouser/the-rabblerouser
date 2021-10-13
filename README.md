@@ -5,15 +5,14 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 >  [joemccann.tech](https://github.com/the-rabblerouser/portfolio) - My portfolio site to display my past and current projects. Built with React and Next.js.
 
->  [Plaid Practice App](https://github.com/the-rabblerouser/Plaid-Client) - An app to test out the plaid api.
-
 >  [Hacker News Clone](https://github.com/the-rabblerouser/hacknews) - This is a clone of the site news.ycombinator.com built with React and Next.js
-  
->  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - The big project from Colt Steeles web developer bootcamp built with React and Next.js
 
 >  [Calculator](https://github.com/the-rabblerouser/Calculator) - This is a calculator app, built with Typescript, React, & Next.js.
 
->  [MineSweeper](https://github.com/the-rabblerouser/minesweeper_practice) - This is the classic game minesweeper, built with Typescript, React, & Next.js.
+>  [Plaid Practice App](https://github.com/the-rabblerouser/Plaid-Client) - An app to test out the plaid api.
+
+>  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - The big project from Colt Steeles web developer bootcamp built with React and Next.js
+
 
 ## My Tech Stack
 > Javascript <br/>

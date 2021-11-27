@@ -9,7 +9,7 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 >  [Calculator](https://github.com/the-rabblerouser/Calculator) - This is a calculator app, built with Typescript, React, & Next.js.
 
->  [Plaid Practice App](https://github.com/the-rabblerouser/Plaid-Client) - An app to test out the plaid api.
+>  [Time-tracking-dashboard](https://github.com/the-rabblerouser/Time-tracking-dashboard) - Time tracking dashboard that displays daily, weeekly & monthly stats.
 
 >  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - The big project from Colt Steeles web developer bootcamp built with React and Next.js
 

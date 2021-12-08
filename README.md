@@ -11,7 +11,6 @@ I'm a self-taught Full Stack Developer who specializes in React and Next.js.
 
 >  [Calculator](https://github.com/the-rabblerouser/Calculator) - This is a calculator app, built with Typescript, React, & Next.js.
 
->  [Yelp Camp](https://github.com/the-rabblerouser/yelpcamp-nextjs) - The big project from Colt Steeles web developer bootcamp built with React and Next.js
 
 
 ## My Tech Stack
